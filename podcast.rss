@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>Modern Psychotherapies</title>
-        <itunes:title>Modern Psychotherapies</itunes:title>
-        <description>Modern Psychotherapies</description>
-        <itunes:summary>Modern Psychotherapies</itunes:summary>
+        <title>Modern Psychotherapies Discussion</title>
+        <itunes:title>Modern Psychotherapies Discussion</itunes:title>
+        <description>Modern Psychotherapies Discussion</description>
+        <itunes:summary>Modern Psychotherapies Discussion</itunes:summary>
         <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
         <link>https://github.com/ccz245/data-modern-psych-0de2147d998b</link>
         <language>en-us</language>
@@ -18,7 +18,7 @@ How to critically evaluate a therapy model by asking what it assumes about human
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep01_ch01_conceptual_framework_integration.mp3" length="14570508" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep01</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:14</itunes:duration>
             <itunes:summary>Chapter 1: The Integration of Psychology and Christianity
@@ -33,7 +33,7 @@ What happens in the room when a therapist's defensive posture toward secular psy
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep02_ch01_self_of_therapist_integration_stance.mp3" length="14136040" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep02</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:19:38</itunes:duration>
             <itunes:summary>Chapter 1: The Integration of Psychology and Christianity
@@ -48,7 +48,7 @@ How the doctrine of the Imago Dei gives the therapist a stable conviction of the
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep03_ch02_conceptual_framework_personhood.mp3" length="12302871" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep03</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:05</itunes:duration>
             <itunes:summary>Chapter 2: A Christian View of Persons
@@ -63,7 +63,7 @@ A working playbook for the biopsychosocial-spiritual model: assessing the physic
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep04_ch02_clinical_playbook_biopsychosocial.mp3" length="14709062" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep04</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:26</itunes:duration>
             <itunes:summary>Chapter 2: A Christian View of Persons
@@ -78,7 +78,7 @@ Freud's structural model (id, ego, superego) and the dynamic unconscious explain
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep05_ch03_conceptual_framework_psychoanalysis.mp3" length="14397787" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep05</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:00</itunes:duration>
             <itunes:summary>Chapter 3: Classical Psychoanalysis
@@ -93,7 +93,7 @@ How to use the therapeutic relationship itself as the vehicle for change: hold a
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep06_ch03_clinical_playbook_transference.mp3" length="13060526" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep06</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:18:08</itunes:duration>
             <itunes:summary>Chapter 3: Classical Psychoanalysis
@@ -108,7 +108,7 @@ When denial, projection, or intellectualization stall the work, the answer is to
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep07_ch03_troubleshooting_defenses.mp3" length="15331612" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep07</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:21:18</itunes:duration>
             <itunes:summary>Chapter 3: Classical Psychoanalysis
@@ -123,7 +123,7 @@ Your dread, irritation, or urge to placate a difficult client is information abo
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep08_ch03_self_of_therapist_countertransference.mp3" length="11714489" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep08</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:16:16</itunes:duration>
             <itunes:summary>Chapter 3: Classical Psychoanalysis
@@ -138,7 +138,7 @@ Object relations and self psychology recast pathology as a distorted internal ma
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep09_ch04_conceptual_framework_object_relations.mp3" length="10655589" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep09</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:14:48</itunes:duration>
             <itunes:summary>Chapter 4: Contemporary Psychodynamic Psychotherapies
@@ -153,7 +153,7 @@ Time-limited dynamic therapy compresses years of analysis into one focused quest
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep10_ch04_clinical_playbook_cmp.mp3" length="13271178" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep10</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:18:26</itunes:duration>
             <itunes:summary>Chapter 4: Contemporary Psychodynamic Psychotherapies
@@ -168,7 +168,7 @@ With borderline and narcissistic dynamics, insight-oriented work destabilizes a 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep11_ch04_troubleshooting_splitting.mp3" length="14958270" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep11</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:46</itunes:duration>
             <itunes:summary>Chapter 4: Contemporary Psychodynamic Psychotherapies
@@ -183,7 +183,7 @@ Relational two- and three-person models abandon the blank screen: the boredom, f
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep12_ch04_self_of_therapist_immediacy.mp3" length="14452017" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep12</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:04</itunes:duration>
             <itunes:summary>Chapter 4: Contemporary Psychodynamic Psychotherapies
@@ -198,7 +198,7 @@ How classical, operant, and social learning principles quietly maintain a couple
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep13_ch05_conceptual_framework_learning_theory.mp3" length="14871752" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep13</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:39</itunes:duration>
             <itunes:summary>Chapter 5: Behavior Therapy
@@ -213,7 +213,7 @@ A practical playbook for systematic desensitization: name the conditioned stimul
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep14_ch05_clinical_playbook_exposure.mp3" length="14025698" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep14</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:19:29</itunes:duration>
             <itunes:summary>Chapter 5: Behavior Therapy
@@ -228,7 +228,7 @@ Marks' 1981 OCD case shows how compulsive washing operantly reinforces the very 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep15_ch05_case_study_ocd_exposure.mp3" length="13715050" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep15</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:19:03</itunes:duration>
             <itunes:summary>Chapter 5: Behavior Therapy
@@ -243,7 +243,7 @@ Why behavioral marital therapy relapses once partners turn their new skills into
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep16_ch05_troubleshooting_third_wave.mp3" length="12921659" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep16</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:57</itunes:duration>
             <itunes:summary>Chapter 5: Behavior Therapy
@@ -258,7 +258,7 @@ How to hold the tension between Skinner's determinism and a Christian anthropolo
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep17_ch05_advanced_integration_determinism.mp3" length="13362084" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep17</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:18:33</itunes:duration>
             <itunes:summary>Chapter 5: Behavior Therapy
@@ -273,7 +273,7 @@ Traces cognitive therapy's evolution from behaviorism through Ellis and Beck's t
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep18_ch06_conceptual_framework_cognitive_waves.mp3" length="14414087" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep18</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:01</itunes:duration>
             <itunes:summary>Chapter 6: Cognitive Therapy
@@ -288,7 +288,7 @@ Walks through Beck's collaborative empiricism and Socratic questioning as an alt
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep19_ch06_clinical_playbook_cognitive_restructuring.mp3" length="13445780" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep19</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:18:40</itunes:duration>
             <itunes:summary>Chapter 6: Cognitive Therapy
@@ -303,7 +303,7 @@ Applies Meichenbaum's constructivist view to clients whose narrative of victimho
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep20_ch06_troubleshooting_constructivism.mp3" length="12895328" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep20</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:55</itunes:duration>
             <itunes:summary>Chapter 6: Cognitive Therapy
@@ -318,7 +318,7 @@ Examines the Christian critique of functional relativism, where "rational" quiet
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep21_ch06_advanced_integration_relativism.mp3" length="12717277" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep21</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:40</itunes:duration>
             <itunes:summary>Chapter 6: Cognitive Therapy
@@ -333,7 +333,7 @@ Unpacks empathy, congruence, and unconditional positive regard as states of bein
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep22_ch07_conceptual_framework_rogers_triad.mp3" length="15599942" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep22</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:21:40</itunes:duration>
             <itunes:summary>Chapter 7: Person-Centered Therapy
@@ -348,7 +348,7 @@ Maps where nondirective therapy fails — severe trauma, addiction, escalated co
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep23_ch07_troubleshooting_nondirective_limits.mp3" length="12946423" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep23</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:59</itunes:duration>
             <itunes:summary>Chapter 7: Person-Centered Therapy
@@ -363,7 +363,7 @@ Examines the tension between Rogers's ethical egoism and a sacred humanism groun
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep24_ch07_advanced_integration_christian_humanism.mp3" length="14340108" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep24</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:19:55</itunes:duration>
             <itunes:summary>Chapter 7: Person-Centered Therapy
@@ -378,7 +378,7 @@ Existential therapy's four givens (death, freedom, isolation, meaninglessness) a
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep25_ch08_conceptual_framework_existential_givens.mp3" length="14848869" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep25</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:37</itunes:duration>
             <itunes:summary>Chapter 8: Experiential Therapies
@@ -393,7 +393,7 @@ How emotion-focused therapy treats emotion as adaptive information organized int
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep26_ch08_clinical_playbook_eft_emotion_schemes.mp3" length="12819468" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep26</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:48</itunes:duration>
             <itunes:summary>Chapter 8: Experiential Therapies
@@ -408,7 +408,7 @@ Gestalt's account of distress as lost contact — introjection, projection, retr
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep27_ch08_troubleshooting_gestalt_boundaries.mp3" length="14166760" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep27</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:19:40</itunes:duration>
             <itunes:summary>Chapter 8: Experiential Therapies
@@ -423,7 +423,7 @@ A Christian critique of experiential therapy's two core assumptions: that meanin
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep28_ch08_advanced_integration_meaning_and_emotion.mp3" length="14316598" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep28</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:19:53</itunes:duration>
             <itunes:summary>Chapter 8: Experiential Therapies
@@ -438,7 +438,7 @@ Reframes symptoms as systemic regulation rather than individual pathology, using
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep29_ch09_conceptual_framework_systems_cybernetics.mp3" length="12722920" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep29</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:40</itunes:duration>
             <itunes:summary>Chapter 9: Family Systems Theory and Therapy
@@ -453,7 +453,7 @@ Walks through structural family therapy: joining the system, mapping subsystems 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep30_ch09_clinical_playbook_structural_family_therapy.mp3" length="13521013" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep30</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:18:47</itunes:duration>
             <itunes:summary>Chapter 9: Family Systems Theory and Therapy
@@ -468,7 +468,7 @@ Applies Bowenian theory to high-conflict sessions where emotional flooding makes
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep31_ch09_troubleshooting_bowenian_differentiation.mp3" length="17584830" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep31</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:24:25</itunes:duration>
             <itunes:summary>Chapter 9: Family Systems Theory and Therapy
@@ -483,7 +483,7 @@ Makes the case that the unit of analysis is the relationship, not the individual
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep32_ch09_advanced_integration_relational_ontology.mp3" length="12567752" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep32</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:27</itunes:duration>
             <itunes:summary>Chapter 9: Family Systems Theory and Therapy
@@ -498,7 +498,7 @@ Listeners learn to read a client's distress through Bronfenbrenner's nested syst
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep33_ch10_conceptual_framework_ecological_perspective.mp3" length="12622923" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep33</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:32</itunes:duration>
             <itunes:summary>Chapter 10: Community Psychology and Preventative Intervention Strategies
@@ -513,7 +513,7 @@ A practical playbook for inverting the therapist's deficit-detective habit: cond
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep34_ch10_clinical_playbook_asset_mapping.mp3" length="12800347" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep34</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:17:47</itunes:duration>
             <itunes:summary>Chapter 10: Community Psychology and Preventative Intervention Strategies
@@ -528,7 +528,7 @@ Explores why secular community psychology's case for social justice rests on sha
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep35_ch10_advanced_integration_biblical_justice.mp3" length="16138482" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep35</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:22:25</itunes:duration>
             <itunes:summary>Chapter 10: Community Psychology and Preventative Intervention Strategies
@@ -543,7 +543,7 @@ Distinguishes technical eclecticism, theoretical integration, assimilative integ
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep36_ch11_conceptual_framework_four_eclecticisms.mp3" length="14915951" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep36</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:43</itunes:duration>
             <itunes:summary>Chapter 11: Responsible Eclecticism and the Challenges of Contemporary Practice
@@ -558,7 +558,7 @@ Breaks down the pie chart of therapeutic change — 40% extratherapeutic context
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep37_ch11_clinical_playbook_common_factors.mp3" length="11651168" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep37</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:16:11</itunes:duration>
             <itunes:summary>Chapter 11: Responsible Eclecticism and the Challenges of Contemporary Practice
@@ -573,7 +573,7 @@ Reframes the therapist's presence as incarnational rather than technical, mappin
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep38_ch12_conceptual_framework_imaging_offices.mp3" length="14512830" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep38</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:20:09</itunes:duration>
             <itunes:summary>Chapter 12: Christian Psychotherapy and the Person of the Christian Psychotherapist
@@ -588,7 +588,7 @@ Argues that ethics codes set a floor for behavior but no ceiling for character, 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-modern-psych-0de2147d998b/audio/modern-psych_ep39_ch12_clinical_playbook_imaging_character.mp3" length="13882756" type="audio/mpeg"/>
             <guid isPermaLink="false">modern-psych_ep39</guid>
-            <itunes:author>Modern Psychotherapies</itunes:author>
+            <itunes:author>Modern Psychotherapies Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-modern-psych-0de2147d998b/cover.png"/>
             <itunes:duration>00:19:17</itunes:duration>
             <itunes:summary>Chapter 12: Christian Psychotherapy and the Person of the Christian Psychotherapist
